@@ -1,0 +1,29 @@
+.navegacion{
+    display: flex;
+    justify-content: right;
+}
+.hero-image{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    width: 100vw;
+    height: 40vh;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8GEL7Y6NE28n9jNlfIXpe_LeG_Bol2tGJFg&usqp=CAU");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+}
+.texto-hero{
+    margin: 2em;
+    color: #000000;
+}
+#main-quienes{
+    display: flex;
+    justify-content: center;
+    margin: 1em;
+}
+.video-quienes{
+    width: 50vw;
+    height: 50vh;
+    margin-left: 15em;
+}
