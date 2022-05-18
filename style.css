@@ -17,6 +17,10 @@
     margin: 2em;
     color: #000;
 }
+.boton-R{
+    color:#fafafa;
+    background-color: rgb(231, 14, 14);
+}
 #main-quienes{
     display: flex;
     justify-content: center;
